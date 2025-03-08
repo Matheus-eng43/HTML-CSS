@@ -69,7 +69,13 @@ li {
     border-radius: 35px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
+}
+
+.j2d { 
+    margin: 30px 10px 30px 10px;
+    width: 270px;
+    border-radius: 10px;
 }
 
 .b2 {
@@ -79,7 +85,15 @@ li {
     border-radius: 35px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
+}
+
+.j3d {
+    margin: 20px;
+    margin-bottom: 0px;
+    border-radius: 30px;
+    width: 220px;
+    height: 300px;
 }
 
 .b3 {
@@ -89,7 +103,7 @@ li {
     border-radius: 35px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .container p {
